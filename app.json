@@ -1,11 +1,11 @@
 {
-    "name": "ljstptoy10",
+    "name": "ljstpjid15",
     "description": "Deploy",
     "keywords": ["Deploy"],
     "env": {
         "VmessUUID": {
             "description": "Vmess UUID. Use UUID tools to generate you own UUID.",
-            "value": "afbf1030-287a-40da-8706-00aa4400bc2b"
+            "value": "96094e55-7007-4a47-beb8-1e3decc10d20"
         },
         "SecretPATH": {
             "description": "Websocket base Path. Set this path to an uncommon path which doesn't contain sensitive information.",
@@ -13,7 +13,7 @@
         },
         "PASSWORD": {
             "description": "Trojan Password, recommend strong password.",
-            "value": "963741_AAbA"
+            "value": "963741_AbCd"
         },        
         "ArgoJSON": {
             "description": "Argo tunnel JSON. Optional.",
